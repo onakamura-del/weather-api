@@ -54,4 +54,4 @@ def rain_data():
 output = rain_data()
 #output = output[output["Rain"] != 0]
 output.to_csv("rain_data.csv")
-# # Rain measurment, Place, longtitude, Latitude, time
+# # Rain measurment, Place, longtitude, Latitude, tim
